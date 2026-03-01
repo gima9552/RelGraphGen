@@ -4,7 +4,7 @@ In this repo, you can find an example of the pipeline described in "ReX-GG: a LL
 
 ### Structure of the repo
 ```
-  main_folder
+  .
   ├── data
   │   ├── logs           # Destination folder for the error logs while running the pipeline.
   │   └── queries        # Destination folder for the stored queries for all LLM communication.
